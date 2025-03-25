@@ -16,7 +16,7 @@
 
 📫 **How to reach me:**  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/manasthegreat)  
-- ✉️ Email: your.email@example.com (optional)  
+- ✉️ Email: manasmodi603@gmail.com
 
 ⚡ **Fun Fact:**  
 - I enjoy solving **real-world problems using data and AI!**  
