@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Manas Goel (@modimanas)  
 
 💻 **About Me:**  
-- 🎓 I'm currently pursuing **B.Tech (2nd Year) in Computer Science and Information Technology (CSIT)** at **KIET Group of Institutions**.  
+- 🎓 I'm currently pursuing **B.Tech (3nd Year) in Computer Science and Information Technology (CSIT)** at **KIET Group of Institutions**.  
 - 🤖 I'm passionate about **Machine Learning, Data Science, and Model Training**.  
 - 📊 I love working with **data, analyzing trends, and optimizing ML models**.  
 - 🚀 I have trained models on **Titanic Dataset, Deep Sea Sonar Dataset**, and more.  
